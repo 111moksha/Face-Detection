@@ -7,9 +7,5 @@ In this project, I have created a Facial recognition System with high accuracy. 
 
 ## SCREENSHOTS :
 
-```diff
-+ Face Detected :
-
-```
 
 ![Screenshot](Screenshot.png) 
